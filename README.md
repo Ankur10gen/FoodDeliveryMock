@@ -1,10 +1,10 @@
 **Realm Functions**
 
-![Realm Functions](/Users/ankurraina/Desktop/shot1.png)
+![Realm Functions](shot1.png)
 
 **Realm Triggers**
 
-![Realm Triggers](/Users/ankurraina/Desktop/shot2.png)
+![Realm Triggers](shot2.png)
 
 **Generate Orders**
 
@@ -141,7 +141,7 @@ exports = async function () {
 
 **Elapsed Time was calculated using the following aggregation pipeline in the Data Source of Charts**
 
-![Aggregation in Data Source](/Users/ankurraina/Desktop/shot3.png)
+![Aggregation in Data Source](shot3.png)
 
 This can also be achieved using Window Functions which I'll update soon.
 
